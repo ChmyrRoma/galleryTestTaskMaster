@@ -1,0 +1,29 @@
+.mainStyle {
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.mainStyle img {
+    width: 550px;
+}
+
+.personData {
+    margin-left: 20px;
+}
+
+.anotherPhotos h2 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.photo {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.photo img {
+    width: 200px;
+    height: 150px;
+    margin-left: 15px;
+}
